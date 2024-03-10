@@ -1,0 +1,14 @@
+/Users/a13/Desktop/7lesson/Task1/bin/Debug/net7.0/Task1
+/Users/a13/Desktop/7lesson/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/a13/Desktop/7lesson/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/a13/Desktop/7lesson/Task1/bin/Debug/net7.0/Task1.dll
+/Users/a13/Desktop/7lesson/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.dll
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/a13/Desktop/7lesson/Task1/obj/Debug/net7.0/ref/Task1.dll
